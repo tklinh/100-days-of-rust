@@ -23,4 +23,4 @@ I do not set any strict goal for this challenge because I think it's happier to 
 * Use **cargo** to manage a Rust project:
         
         cargo new project_name
-* Some useful cargo command: new, build, run, check, update, doc
+* Some useful cargo commands: new, build, run, check, update, doc
